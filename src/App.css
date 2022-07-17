@@ -1,0 +1,6 @@
+.text-area {
+    min-height: 250px !important;
+}
+.over {
+    overflow-wrap: break-word;
+}
