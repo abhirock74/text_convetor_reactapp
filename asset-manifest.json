@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/text_convetor_reactapp/static/css/main.36362adb.css",
+    "main.js": "/text_convetor_reactapp/static/js/main.3d07d113.js",
+    "static/js/787.5978f83e.chunk.js": "/text_convetor_reactapp/static/js/787.5978f83e.chunk.js",
+    "index.html": "/text_convetor_reactapp/index.html",
+    "main.36362adb.css.map": "/text_convetor_reactapp/static/css/main.36362adb.css.map",
+    "main.3d07d113.js.map": "/text_convetor_reactapp/static/js/main.3d07d113.js.map",
+    "787.5978f83e.chunk.js.map": "/text_convetor_reactapp/static/js/787.5978f83e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.36362adb.css",
+    "static/js/main.3d07d113.js"
+  ]
+}
